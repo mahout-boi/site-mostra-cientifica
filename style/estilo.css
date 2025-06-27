@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.site_header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+    width: 100%;
+}
+
+
+.site_header h1 {
+    margin: 0;
+}
+
+.site_header p {
+    margin: 5px 0 0;
+}
+
+.corpo {
+    padding: 20px;
+}
